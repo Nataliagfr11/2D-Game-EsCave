@@ -72,4 +72,19 @@ The development process included:
 - Introduce new abilities (crouch, sprint).  
 - Expand with more enemies, traps, and complex levels.  
 - Add background music and sound effects for immersion.  
-- Develop a **multiplayer mode** inspired by *Fireboy and Watergirl*.  
+- Develop a **multiplayer mode** inspired by *Fireboy and Watergirl*.
+
+---
+
+## 📸 Screenshots  
+
+Here are some in-game screenshots of **EsCave**:  
+
+![Main Menu](images/Escave (1).png)  
+*Main menu with level selection*  
+
+![Gameplay Easy Level](assets/screenshot_easy.png)  
+*Player collecting a key in Easy level*  
+
+![Gameplay Hard Level](assets/screenshot_hard.png)  
+*Avoiding traps in Hard level*  

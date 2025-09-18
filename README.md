@@ -80,11 +80,12 @@ The development process included:
 
 Here are some in-game screenshots of **EsCave**:  
 
-![Menu](Images/Escave%20(1).png)  
-*Main menu with level selection*  
+![Menu](Images/Escave%20(1).png) 
+*Creation of the difficult scene*
 
 ![Easy Level](Images/Escave%20(2).png)  
-*Collecting a key in Easy level*  
+*Collecting a key in Easy level* 
+*Main menu with level selection*  
 
 ![Intermediate Level](Images/Escave%20(3).png)  
 *Gameplay in Intermediate level*  

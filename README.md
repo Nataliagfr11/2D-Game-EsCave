@@ -80,11 +80,20 @@ The development process included:
 
 Here are some in-game screenshots of **EsCave**:  
 
-![Main Menu](images/Escave (1).png)  
+![Menu](Images/Escave%20(1).png)  
 *Main menu with level selection*  
 
-![Gameplay Easy Level](assets/screenshot_easy.png)  
-*Player collecting a key in Easy level*  
+![Easy Level](Images/Escave%20(2).png)  
+*Collecting a key in Easy level*  
 
-![Gameplay Hard Level](assets/screenshot_hard.png)  
+![Intermediate Level](Images/Escave%20(3).png)  
+*Gameplay in Intermediate level*  
+
+![Hard Level](Images/Escave%20(4).png)  
 *Avoiding traps in Hard level*  
+
+![Victory Screen](Images/Escave%20(5).png)  
+*Victory panel after completing a level*  
+
+![Death Panel](Images/Escave%20(6).png)  
+*Death panel with replay option*   
